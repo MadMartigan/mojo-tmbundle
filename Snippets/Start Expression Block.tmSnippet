@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;%= $1 begin %&gt;
+    $2
+${3:&lt;% end %&gt;}</string>
+	<key>name</key>
+	<string>Start Expression Block</string>
+	<key>scope</key>
+	<string>text.html.mojolicious</string>
+	<key>tabTrigger</key>
+	<string>xb</string>
+	<key>uuid</key>
+	<string>10703809-D6C6-4D4B-A8F3-6811DD57C819</string>
+</dict>
+</plist>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>fev@pcna.bet</string>
+	<key>contactName</key>
+	<string>Sebastian Riedel</string>
+	<key>description</key>
+	<string></string>
+	<key>name</key>
+	<string>Perl Mojolicious</string>
+	<key>ordering</key>
+	<array>
+		<string>5B51EFB4-40AE-49C6-B43C-24ABF7451217</string>
+		<string>25654272-B054-445D-8B94-1D383F739ECF</string>
+		<string>BA6B48B0-CDB3-4DD4-A2E8-C43CA485A503</string>
+		<string>ACD22369-3633-490B-A281-913D5FE8341F</string>
+		<string>E658D6FE-C316-412B-B5C2-31F214DC3434</string>
+		<string>6E82668C-BAAA-4F51-AAB3-FB6926783DEA</string>
+		<string>350E6464-00D1-4BE9-89B7-2E22D16A3E41</string>
+		<string>2EEA8F68-337E-4D42-A8BA-263706B887B6</string>
+		<string>4763DA93-D062-4C7C-8BB7-7CB0079BBE6D</string>
+		<string>10549F09-E7A4-4C28-A87E-03AA7F9593B0</string>
+		<string>10703809-D6C6-4D4B-A8F3-6811DD57C819</string>
+		<string>5AE21FBC-BCF6-4EF4-AA5C-1388BAD4ABA9</string>
+		<string>6D36F997-E6C2-4DC4-8099-9AB5CA141EE6</string>
+	</array>
+	<key>source</key>
+	<dict>
+		<key>method</key>
+		<string>git</string>
+		<key>url</key>
+		<string>git://github.com/kraih/mojo.tmbundle</string>
+	</dict>
+	<key>uuid</key>
+	<string>2A3CBC0B-7AFE-4F37-938E-979EFBDF486D</string>
+</dict>
+</plist>

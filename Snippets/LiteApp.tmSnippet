@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>#!/usr/bin/env perl
+use Mojolicious::Lite;
+
+$1
+
+app-&gt;start;
+__DATA__</string>
+	<key>name</key>
+	<string>LiteApp</string>
+	<key>scope</key>
+	<string>source.perl.mojolicious</string>
+	<key>tabTrigger</key>
+	<string>app</string>
+	<key>uuid</key>
+	<string>BA6B48B0-CDB3-4DD4-A2E8-C43CA485A503</string>
+</dict>
+</plist>

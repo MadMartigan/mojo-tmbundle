@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>post '${1:/}' =&gt; sub {
+  my \$self = shift;
+  $2
+};</string>
+	<key>name</key>
+	<string>Post</string>
+	<key>scope</key>
+	<string>source.perl.mojolicious</string>
+	<key>tabTrigger</key>
+	<string>post</string>
+	<key>uuid</key>
+	<string>350E6464-00D1-4BE9-89B7-2E22D16A3E41</string>
+</dict>
+</plist>

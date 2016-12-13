@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$self-&gt;render(${1:text} =&gt; '${2:Hello Mojo!}');</string>
+	<key>name</key>
+	<string>Render</string>
+	<key>scope</key>
+	<string>source.perl.mojolicious</string>
+	<key>tabTrigger</key>
+	<string>render</string>
+	<key>uuid</key>
+	<string>ACD22369-3633-490B-A281-913D5FE8341F</string>
+</dict>
+</plist>
